@@ -1,0 +1,22 @@
+/* h2:hover{
+    color: blue;
+}
+ul li a:link{
+    color: green;
+}
+ul li a:active{
+    color : yellow;
+}
+ul li a:visited{
+    color : purple;
+} */
+ul li:first-child a{
+    color: yellow;
+}
+ul li:last-child a{
+    color: green;
+}
+
+ul li:nth-child(2) a{
+    color: aqua;
+}
