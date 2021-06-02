@@ -1,0 +1,62 @@
+#kotak-merah{
+    background-color: coral;
+    width: 150px;
+    height: 200px;
+    overflow: auto;
+}
+#kotak-biru{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+}
+
+#kotak-hijau{
+    background-color: green;
+    margin-top: -150px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+}
+#kotak-kuning{
+    background-color: yellow;
+    margin-top: -150px;
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+}
+#hijau{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+}
+#kotak-besar{
+    width: 50%;
+    height: 300px;
+    padding : 5px;
+    border-style: solid;
+}
+
+#ungu{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+#orange{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+}
+#hijau{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+#clear{
+    clear: both;
+}

@@ -1,0 +1,26 @@
+#kotak-besar{
+    width: 300px;
+    height: 700px;
+    padding : 5px;
+    position: relative;
+    border-style: solid;
+}
+
+#ungu{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left : 0;
+    top: 0;
+}
+#orange{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+}
+#hijau{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
