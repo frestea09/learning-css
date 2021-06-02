@@ -1,0 +1,18 @@
+.kotak-merah{
+    background-image: url('../img/download.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+h1{
+    color: red;
+}
+h2, h3{
+    color : blue;
+}
+ul li #merah{
+    color: red;
+}
